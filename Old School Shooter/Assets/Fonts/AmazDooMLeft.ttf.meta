@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e33f2e1a307bc354aa38a8796280c862
+timeCreated: 1482062866
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: AmazDooMLeft
+  fontNames:
+  - AmazDooMLeft
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: dc1935348aab47945bf7ab23b73553a6
+timeCreated: 1482062866
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: AmazDooMRight
+  fontNames:
+  - AmazDooMRight
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
